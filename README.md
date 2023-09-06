@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on SamsungSDS which the biggest System Integration & IT Consulting Company in Korea as an consultant for the finance industry.
+- 🌱 I’m currently learning Python and git.
+- 🤔 I’m looking for help with the S/W programming.
+- will add more later. bye!
